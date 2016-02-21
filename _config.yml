@@ -1,6 +1,6 @@
 name: Richard Parkes
 favicon: null
-layout_spectrum: 0.60955
+layout_spectrum: 0.25357
 typography_spectrum: 0.46567
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.0625
   lightness: 0.9375
   saturation: 0.5625
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
